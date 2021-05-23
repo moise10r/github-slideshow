@@ -1,1 +1,1 @@
-console.log('entrry point');
+console.log("entry point");
